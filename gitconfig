@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = christopherasparrow@gmail.com
-	name = gh api user/emails | jq -r '.[].email'
+	email = chrietopherasparrow@gmail.com
+	name = Christopher Sparrow
